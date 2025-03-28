@@ -1,2 +1,3 @@
 # Curso Git
- Repositorio dos aprendizados de Git
+ Repositório dos aprendizados de Git
+primeiro curso de git
